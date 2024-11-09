@@ -8,4 +8,5 @@ print(example_string.lower().islower())
 
 print(example_string.index("Ram"))  # counting starts from zero 
 print(example_string.index(" "))
-
+ 
+print(example_string.index("A"))
