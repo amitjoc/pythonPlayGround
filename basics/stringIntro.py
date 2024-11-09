@@ -6,3 +6,6 @@ print(example_string.upper())
 print(example_string.upper().isupper())
 print(example_string.lower().islower())
 
+print(example_string.index("Ram"))  # counting starts from zero 
+print(example_string.index(" "))
+
